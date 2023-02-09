@@ -1,0 +1,16 @@
+table {
+    border-collapse: collapse;
+}
+
+
+.desarrollo-web,
+.desarrollo-web td,
+.desarrollo-web th {
+    border-style: solid;
+    border-width: 1px;
+    /* shorthand --> atajo*/
+    border-color: crimson;
+    border-collapse: collapse;
+    border: 5px solid crimson;
+    /* shorthand --> atajo de las 3 líneas de arriba (el style es obligatorio)*/
+}
